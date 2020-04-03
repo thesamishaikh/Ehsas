@@ -13,8 +13,12 @@
       margin-bottom: 0;
       box-shadow: 1px 2px 8px 1px #888888;
   }
+  .reg{
+      color: red;
+  }
   .pkg{
       margin-top: 1px;
+      color: #05401B;
   }
 
   @media (min-width: 768px) {
@@ -32,4 +36,9 @@
   body{
       padding: 0px;
       margin: 0px;
+  }
+
+  #eh{
+    
+
   }
